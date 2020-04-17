@@ -2,4 +2,4 @@
 常用代码
 ## Matirx Factorization
 ### LCCF
-[LCCFtest](./Matirx Factorization/LCCFtest.m) LCCF原始测试文件
+[LCCFtest](/Matirx Factorization/LCCFtest.m)  LCCF原始测试文件
